@@ -1,7 +1,7 @@
 {
     "bg": "https://jeevanism.files.wordpress.com/2018/04/maxresdefault.jpg",
     "title": "Quiz Qt",
-    "description": "Teste os seus conhecimentos sobre Qt.",
+    "description": "Teste os seus conhecimentos sobre o framework Qt.",
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
